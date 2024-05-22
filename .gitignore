@@ -17,3 +17,6 @@ env/
 lib/
 libs/
 lib64/
+
+# add terraform
+.terraform/
