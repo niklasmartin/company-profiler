@@ -1,0 +1,19 @@
+main.tf
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories
+lib/
+libs/
+lib64/
